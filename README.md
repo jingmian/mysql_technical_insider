@@ -1,5 +1,3 @@
-# mysql_jishuneimu
-MYSQL技术内幕: SQL编程_姜承尧_________笔记
-
-只有Wiki，哟呵呵
- 
+# 读书笔记
+书名：《MYSQL技术内幕》
+作者：姜承尧
